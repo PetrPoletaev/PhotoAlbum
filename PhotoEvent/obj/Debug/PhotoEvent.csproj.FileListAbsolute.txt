@@ -21,3 +21,10 @@ C:\Документы\ПРАКТИКА\ОСНОВНОЙ PhotoEvent C#\PhotoEvent
 C:\Users\HP\Downloads\PRAKTIKA\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\bin\Debug\PhotoEvent.exe.config
 C:\Users\HP\Downloads\PRAKTIKA\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\obj\Debug\PhotoEvent.exe
 C:\Users\HP\Downloads\PRAKTIKA\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\obj\Debug\PhotoEvent.pdb
+C:\Users\HP\Downloads\PRAKTIKA\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\bin\Debug\PhotoEvent.exe
+C:\Users\HP\Downloads\PRAKTIKA\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\bin\Debug\PhotoEvent.pdb
+C:\Users\HP\Downloads\PRAKTIKA\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\obj\Debug\PhotoEvent.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\PRAKTIKA\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\obj\Debug\PhotoEvent.mainForm.resources
+C:\Users\HP\Downloads\PRAKTIKA\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\obj\Debug\PhotoEvent.Properties.Resources.resources
+C:\Users\HP\Downloads\PRAKTIKA\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\obj\Debug\PhotoEvent.Search.resources
+C:\Users\HP\Downloads\PRAKTIKA\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\obj\Debug\PhotoEvent.csproj.GenerateResource.Cache
