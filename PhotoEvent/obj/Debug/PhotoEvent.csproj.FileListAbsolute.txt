@@ -1,0 +1,23 @@
+C:\Users\Администратор\Desktop\PhotoEvent\PhotoEvent\bin\Debug\PhotoEvent.exe.config
+C:\Users\Администратор\Desktop\PhotoEvent\PhotoEvent\bin\Debug\PhotoEvent.exe
+C:\Users\Администратор\Desktop\PhotoEvent\PhotoEvent\bin\Debug\PhotoEvent.pdb
+C:\Users\Администратор\Desktop\PhotoEvent\PhotoEvent\obj\Debug\PhotoEvent.mainForm.resources
+C:\Users\Администратор\Desktop\PhotoEvent\PhotoEvent\obj\Debug\PhotoEvent.Properties.Resources.resources
+C:\Users\Администратор\Desktop\PhotoEvent\PhotoEvent\obj\Debug\PhotoEvent.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\PhotoEvent\PhotoEvent\obj\Debug\PhotoEvent.exe
+C:\Users\Администратор\Desktop\PhotoEvent\PhotoEvent\obj\Debug\PhotoEvent.pdb
+C:\Users\Администратор\Desktop\PhotoEvent\PhotoEvent\obj\Debug\PhotoEvent.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\PhotoEvent\PhotoEvent\obj\Debug\PhotoEvent.Search.resources
+C:\Документы\ПРАКТИКА\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\bin\Debug\PhotoEvent.exe.config
+C:\Документы\ПРАКТИКА\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\obj\Debug\PhotoEvent.exe
+C:\Документы\ПРАКТИКА\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\obj\Debug\PhotoEvent.pdb
+C:\Документы\ПРАКТИКА\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\bin\Debug\PhotoEvent.exe
+C:\Документы\ПРАКТИКА\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\bin\Debug\PhotoEvent.pdb
+C:\Документы\ПРАКТИКА\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\obj\Debug\PhotoEvent.csprojResolveAssemblyReference.cache
+C:\Документы\ПРАКТИКА\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\obj\Debug\PhotoEvent.mainForm.resources
+C:\Документы\ПРАКТИКА\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\obj\Debug\PhotoEvent.Properties.Resources.resources
+C:\Документы\ПРАКТИКА\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\obj\Debug\PhotoEvent.Search.resources
+C:\Документы\ПРАКТИКА\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\obj\Debug\PhotoEvent.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\PRAKTIKA\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\bin\Debug\PhotoEvent.exe.config
+C:\Users\HP\Downloads\PRAKTIKA\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\obj\Debug\PhotoEvent.exe
+C:\Users\HP\Downloads\PRAKTIKA\ОСНОВНОЙ PhotoEvent C#\PhotoEvent\obj\Debug\PhotoEvent.pdb
